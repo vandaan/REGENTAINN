@@ -32,6 +32,10 @@ Contributions are welcome! If you'd like to contribute to RegentInn, please foll
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
+## some key aspects
+1. place "user" and "admin" folers in "regentainn" folder in xampp/htdocs
+2. get any error to start apche add "extension" file in "PHP.ini" file.
+3.import database in "phpmyadmin" using localhost/phpmyadmin. 
 ---
 
 Feel free to adjust any details or add more sections as needed for your project!
